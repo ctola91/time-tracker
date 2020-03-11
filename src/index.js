@@ -7,6 +7,7 @@ import AppRoutes from './routes';
 // import configureStore from './shared/redux/configureStore';
 import * as serviceWorker from './serviceWorker';
 
+import 'semantic-ui-css/semantic.min.css';
 import './index.css';
 
 const rootElement = document.getElementById('root');
